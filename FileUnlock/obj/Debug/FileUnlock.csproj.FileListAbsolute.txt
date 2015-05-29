@@ -1,0 +1,13 @@
+c:\users\parsa\documents\visual studio 2013\Projects\FileUnlock\FileUnlock\bin\Debug\FileUnlock.exe.config
+c:\users\parsa\documents\visual studio 2013\Projects\FileUnlock\FileUnlock\bin\Debug\FileUnlock.exe
+c:\users\parsa\documents\visual studio 2013\Projects\FileUnlock\FileUnlock\bin\Debug\FileUnlock.pdb
+c:\users\parsa\documents\visual studio 2013\Projects\FileUnlock\FileUnlock\obj\Debug\FileUnlock.csprojResolveAssemblyReference.cache
+c:\users\parsa\documents\visual studio 2013\Projects\FileUnlock\FileUnlock\obj\Debug\MainWindow.baml
+c:\users\parsa\documents\visual studio 2013\Projects\FileUnlock\FileUnlock\obj\Debug\MainWindow.g.cs
+c:\users\parsa\documents\visual studio 2013\Projects\FileUnlock\FileUnlock\obj\Debug\App.g.cs
+c:\users\parsa\documents\visual studio 2013\Projects\FileUnlock\FileUnlock\obj\Debug\FileUnlock_MarkupCompile.cache
+c:\users\parsa\documents\visual studio 2013\Projects\FileUnlock\FileUnlock\obj\Debug\FileUnlock.g.resources
+c:\users\parsa\documents\visual studio 2013\Projects\FileUnlock\FileUnlock\obj\Debug\FileUnlock.Properties.Resources.resources
+c:\users\parsa\documents\visual studio 2013\Projects\FileUnlock\FileUnlock\obj\Debug\FileUnlock.csproj.GenerateResource.Cache
+c:\users\parsa\documents\visual studio 2013\Projects\FileUnlock\FileUnlock\obj\Debug\FileUnlock.exe
+c:\users\parsa\documents\visual studio 2013\Projects\FileUnlock\FileUnlock\obj\Debug\FileUnlock.pdb

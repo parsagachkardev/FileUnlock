@@ -22,6 +22,6 @@
             <TextBlock Margin="10" Padding="10" AllowDrop="False" >Drop Your File Here</TextBlock>
             <Button Margin="10" Padding="10" Click="Button_Click">Unlock File</Button>
         </StackPanel>
-        <TextBlock HorizontalAlignment="Center" Grid.Row="2">By Parsa Gachkar <Hyperlink RequestNavigate="Hyperlink_OnRequestNavigate" NavigateUri="http://google.com">HomePage</Hyperlink> </TextBlock>
+        <TextBlock HorizontalAlignment="Center" Grid.Row="2">By Parsa Gachkar <Hyperlink RequestNavigate="Hyperlink_OnRequestNavigate" NavigateUri="https://github.com/parsagachkardev/FileUnlock">HomePage</Hyperlink> </TextBlock>
     </Grid>
 </Window>
